@@ -1,7 +1,6 @@
 ## Arjun Yadav
 
-![alt_text] (roman-synkevych-E-V6EMtGSUU-unsplash.jpg)
-
+! [alt_text] (roman-synkevych-E-V6EMtGSUU-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@synkevych?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Roman Synkevych</a> on <a href="https://unsplash.com/s/photos/datascience?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Welcome to GitHub Pages
